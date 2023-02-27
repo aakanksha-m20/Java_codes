@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CheckAlphabet
+public class CheckEvenOdd
 {
 
     public static void main(String[] args) 
